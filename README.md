@@ -1,6 +1,6 @@
-# An Empirical Study on Developers’ Shared Conversations with ChatGPT in GitHub Issues and Pull Requests
+# An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues
 
-This is the replication package of our paper **An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Issues and Pull Requests** which has been submitted to Empirical Software Engineering and is currently under review.
+This is the replication package of our paper **An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues** which has been submitted to Empirical Software Engineering and is currently under review.
 
 
 
