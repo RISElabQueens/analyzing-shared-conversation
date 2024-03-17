@@ -2,7 +2,7 @@
 
 This is the replication package of our paper **An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues** which has been submitted to Empirical Software Engineering and is currently under review.
 
-
+Authors: Huizi Hao, Kazi Amit Hasan, Hong Qin, Marcos Macedo, Yuan Tian, Steven H. H. Ding , Ahmed E. Hassan
 
 ## Folder structure
 
