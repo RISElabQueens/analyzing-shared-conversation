@@ -26,4 +26,15 @@ Ensure you have Python 3.8 or higher installed. In your terminal, in the same fo
 2. Run ```pip install -r requirements.txt```
 3. To run the notebooks of RQ2 and RQ3, make sure you have jupyter/jupyterlab installed in your machine.
 
+## Citation
 
+If you find this research useful, please consider citing our paper as follows:
+
+```
+@article{hao2024empirical,
+  title={An Empirical Study on Developers Shared Conversations with ChatGPT in GitHub Pull Requests and Issues},
+  author={Hao, Huizi and Hasan, Kazi Amit and Qin, Hong and Macedo, Marcos and Tian, Yuan and Ding, Steven HH and Hassan, Ahmed E},
+  journal={arXiv preprint arXiv:2403.10468},
+  year={2024}
+}
+```
