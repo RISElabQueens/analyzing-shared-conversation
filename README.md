@@ -1,10 +1,12 @@
-# An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues
+
+## Welcome to the official repository of: [An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues](https://arxiv.org/pdf/2403.10468.pdf). 
+
 
 This is the replication package of our paper **An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues** which has been submitted to Empirical Software Engineering and is currently under review.
 
 Authors: Huizi Hao, Kazi Amit Hasan, Hong Qin, Marcos Macedo, Yuan Tian, Steven H. H. Ding , Ahmed E. Hassan
 
-## Folder structure
+### Folder structure
 
 ```bash
 ├── data_preprocessing
@@ -18,7 +20,7 @@ Authors: Huizi Hao, Kazi Amit Hasan, Hong Qin, Marcos Macedo, Yuan Tian, Steven 
 │ |── code of sankey graphs
 
 ```
-# How to run
+### How to run
 
 Ensure you have Python 3.8 or higher installed. In your terminal, in the same folder as this README file, execute the following commands:
 
@@ -26,7 +28,7 @@ Ensure you have Python 3.8 or higher installed. In your terminal, in the same fo
 2. Run ```pip install -r requirements.txt```
 3. To run the notebooks of RQ2 and RQ3, make sure you have jupyter/jupyterlab installed in your machine.
 
-## Citation
+### Citation
 
 If you find this research useful, please consider citing our paper as follows:
 
