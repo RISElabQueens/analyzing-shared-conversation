@@ -2,7 +2,7 @@
 ## Welcome to the official repository of: [An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues](https://arxiv.org/pdf/2403.10468.pdf). 
 
 
-This is the replication package of our paper **An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues** which has been submitted to Empirical Software Engineering and is currently under review.
+This is the replication package of our paper **An Empirical Study on Developers' Shared Conversations with ChatGPT in GitHub Pull Requests and Issues** which has been published in Empirical Software Engineering (EMSE).
 
 Authors: Huizi Hao, Kazi Amit Hasan, Hong Qin, Marcos Macedo, Yuan Tian, Steven H. H. Ding , Ahmed E. Hassan
 
