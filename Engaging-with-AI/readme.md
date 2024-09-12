@@ -29,3 +29,7 @@ Ensure you have Python 3.8 or higher installed. In your terminal, in the same fo
 1. Clone the repository by running 
 2. Run ```pip install -r requirements.txt```
 3. To run the notebooks of RQ1 and RQ2, make sure you have jupyter/jupyterlab installed in your machine.
+
+
+### Tables with Links to PR
+In this repo, we attached a pdf document detailing the Table 1, 2 and 3 from the paper, including the links to the referenced PRs in the “Examples” column of the tables.
