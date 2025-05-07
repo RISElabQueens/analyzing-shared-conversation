@@ -204,7 +204,7 @@ twine==4.0.2
 typing_extensions==4.7.1
 url-normalize==1.4.3
 urllib3==1.26.12
-virtualenv==20.25.0
+virtualenv==20.26.6
 viv-utils==0.7.9
 vivisect==1.1.1
 wcwidth==0.2.6
