@@ -149,7 +149,7 @@ tenacity==8.2.3
 thinc==8.2.5
 threadpoolctl==3.2.0
 tokenizers==0.14.1
-torch==2.1.0
+torch==2.7.1
 torchaudio==2.1.0
 torchvision==0.16.0
 tornado @ file:///croot/tornado_1696936946304/work
