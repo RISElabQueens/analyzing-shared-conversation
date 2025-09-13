@@ -45,7 +45,7 @@ fsspec==2023.9.2
 gekko==1.0.6
 github==1.2.7
 gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455533097/work
-h11==0.14.0
+h11==0.16.0
 hdbscan==0.8.33
 httpcore==1.0.2
 httpx==0.25.2

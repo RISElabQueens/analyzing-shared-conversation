@@ -63,7 +63,7 @@ geopy==2.4.1
 graphviz==0.20.1
 gym==0.26.2
 gym-notices==0.0.8
-h11==0.14.0
+h11==0.16.0
 halo==0.0.31
 hyperas==0.4.1
 ida-netnode==3.0
