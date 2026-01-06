@@ -39,7 +39,7 @@ exceptiongroup @ file:///croot/exceptiongroup_1668714342571/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema==2.19.0
 filelock @ file:///croot/filelock_1672387128942/work
-fonttools==4.46.0
+fonttools==4.61.0
 frozenlist==1.4.0
 fsspec==2023.9.2
 gekko==1.0.6
