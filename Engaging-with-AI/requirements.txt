@@ -134,7 +134,7 @@ safetensors==0.4.0
 scikit-learn==1.3.2
 scipy==1.11.3
 sentence-transformers==2.2.2
-sentencepiece==0.1.99
+sentencepiece==0.2.1
 shellingham==1.5.4
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 smart-open==7.0.4
