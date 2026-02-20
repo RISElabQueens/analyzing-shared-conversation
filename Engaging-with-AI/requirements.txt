@@ -84,7 +84,7 @@ murmurhash==1.0.10
 nbformat==5.9.2
 nest-asyncio @ file:///croot/nest-asyncio_1672387112409/work
 networkx @ file:///croot/networkx_1690561992265/work
-nltk==3.8.1
+nltk==3.9.2
 numba==0.58.1
 numpy @ file:///croot/numpy_and_numpy_base_1695830428084/work/dist/numpy-1.26.0-cp310-cp310-linux_x86_64.whl#sha256=fc2732718bc9e06a7b702492cb4f5afffe9671083930452d894377bf563464a3
 openai==0.28.0
